@@ -1,0 +1,14 @@
+C:\VS Project\ArchCompProg\ArchCompProg\bin\Debug\net6.0\ArchCompProg.exe
+C:\VS Project\ArchCompProg\ArchCompProg\bin\Debug\net6.0\ArchCompProg.deps.json
+C:\VS Project\ArchCompProg\ArchCompProg\bin\Debug\net6.0\ArchCompProg.runtimeconfig.json
+C:\VS Project\ArchCompProg\ArchCompProg\bin\Debug\net6.0\ArchCompProg.dll
+C:\VS Project\ArchCompProg\ArchCompProg\bin\Debug\net6.0\ArchCompProg.pdb
+C:\VS Project\ArchCompProg\ArchCompProg\obj\Debug\net6.0\ArchCompProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Project\ArchCompProg\ArchCompProg\obj\Debug\net6.0\ArchCompProg.AssemblyInfoInputs.cache
+C:\VS Project\ArchCompProg\ArchCompProg\obj\Debug\net6.0\ArchCompProg.AssemblyInfo.cs
+C:\VS Project\ArchCompProg\ArchCompProg\obj\Debug\net6.0\ArchCompProg.csproj.CoreCompileInputs.cache
+C:\VS Project\ArchCompProg\ArchCompProg\obj\Debug\net6.0\ArchCompProg.dll
+C:\VS Project\ArchCompProg\ArchCompProg\obj\Debug\net6.0\refint\ArchCompProg.dll
+C:\VS Project\ArchCompProg\ArchCompProg\obj\Debug\net6.0\ArchCompProg.pdb
+C:\VS Project\ArchCompProg\ArchCompProg\obj\Debug\net6.0\ArchCompProg.genruntimeconfig.cache
+C:\VS Project\ArchCompProg\ArchCompProg\obj\Debug\net6.0\ref\ArchCompProg.dll
